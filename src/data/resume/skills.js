@@ -14,32 +14,32 @@ const skills = [
   },
   {
     title: 'SQLite/MySQL',
-    competency: 5,
+    competency: 4,
     category: ['Languages', 'Data Analysis'],
   },
   {
     title: 'BeautifulSoup',
-    competency: 5,
+    competency: 3,
     category: ['Python'],
   },
   {
     title: 'Seaborn',
-    competency: 5,
+    competency: 4,
     category: ['Python', 'Data Visualization'],
   },
   {
     title: 'Power BI',
-    competency: 5,
+    competency: 3,
     category: ['Data Visualization'],
   },
   {
     title: 'NumPy',
-    competency: 5,
+    competency: 4,
     category: ['Python', 'Data Analysis'],
   },
   {
     title: 'SciPy',
-    competency: 5,
+    competency: 3,
     category: ['Python', 'Data Analysis'],
   },
   {
@@ -54,12 +54,12 @@ const skills = [
   },
   {
     title: 'Python',
-    competency: 5,
+    competency: 4,
     category: ['Languages', 'Data Analysis'],
   },
   {
     title: 'R',
-    competency: 4,
+    competency: 3,
     category: ['Languages', 'Data Analysis'],
   },
   {
@@ -79,17 +79,17 @@ const skills = [
   },
   {
     title: 'Scikit-Learn',
-    competency: 4,
+    competency: 3,
     category: ['Python'],
   },
   {
     title: 'Google Analytics',
-    competency: 5,
+    competency: 4,
     category: ['Data Analysis'],
   },
   {
     title: 'SPSS',
-    competency: 5,
+    competency: 3,
     category: ['Data Analysis'],
   },
   {
@@ -114,7 +114,7 @@ const skills = [
   },
   {
     title: 'Excel',
-    competency: 5,
+    competency: 4,
     category: ['Microsoft Office Suite'],
   },
   {
