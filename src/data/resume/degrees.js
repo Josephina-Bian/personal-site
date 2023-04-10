@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'University of Southern California',
+    degree: 'M.S. Communication Data Science',
+    link: 'https://www.usc.edu/',
+    year: 2024,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Simon Fraser University',
+    degree: 'B.A. Communication, Philosophy (first class with distinction), Philosophy and Methodology of Science Certificate',
+    link: 'https://www.sfu.ca/',
+    year: 2022,
   },
 ];
 

@@ -9,24 +9,21 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/photo.jpg`} alt="" />
       </Link>
       <header>
         <h2>Josephina Zhenni Bian</h2>
-        <p><a href="mailto:michael.l.dangelo@gmail.com">michael.l.dangelo@gmail.com</a></p>
+        <p><a href="mailto:zhennibi@usc.edu">zhennibi@usc.edu</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Josephina Bian. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>Hi, I&apos;m Josephina Zhenni Bian. I am a goal-oriented and self-motivated problem solver 
+        with expertise in data querying and modeling, statistical analysis and data visualization.
+        I am a M.S. student studying Communication Data Science at <a href="https://usc-csm.symplicity.com/students/psx/profile">USC</a>.
+        I possess strong proficiency in SQL, Python, R and Tableau. I am looking forward to 
+        leveraging data-driven insights to help business stay competitive and effective in marketing.
       </p>
       <ul className="actions">
         <li>
