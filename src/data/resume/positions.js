@@ -16,7 +16,7 @@ const positions = [
     link: 'http://yuanheng.ca/en/',
     daterange: 'January 2021 - April 2022',
     points: [
-      'Launched the official website (viewstar.ca) and created media content on social media including Facebook, Instagram, LinkedIn and WeChat increasing engagement by 900 new subscribers',
+      'Launched the official website and created media content on social media including Facebook, Instagram, LinkedIn and WeChat increasing engagement by 900 new subscribers',
       'Analyzed marketing data on emerging real estate industry trends and used Tableau and Excel for data visualization',
       'Monitored all marketing channels, analyzed social media campaign performance through marketing key performance indicators and provided performance reporting and recommendations for optimization',
       'Managed consumer engagement and responded to consumer feedback through multiple social media platforms',
