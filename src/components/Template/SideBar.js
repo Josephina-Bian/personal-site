@@ -19,11 +19,12 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Josephina Zhenni Bian. I am a goal-oriented and self-motivated problem solver 
+      <p>Hi, I&apos;m Josephina Zhenni Bian. I am a goal-oriented and self-motivated problem solver
         with expertise in data querying and modeling, statistical analysis and data visualization.
         I am a M.S. student studying Communication Data Science at <a href="https://usc-csm.symplicity.com/students/psx/profile">USC</a>.
-        I possess strong proficiency in SQL, Python, R and Tableau. I am looking forward to 
-        leveraging data-driven insights to help business stay competitive and effective in marketing.
+        I possess strong proficiency in SQL, Python, R and Tableau. I am looking forward to
+        leveraging data-driven insights to help business stay competitive and 
+        effective in marketing.
       </p>
       <ul className="actions">
         <li>

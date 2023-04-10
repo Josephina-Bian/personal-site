@@ -15,7 +15,7 @@ const skills = [
   {
     title: 'SQLite/MySQL',
     competency: 5,
-    category: ['Languages','Data Analysis'],
+    category: ['Languages', 'Data Analysis'],
   },
   {
     title: 'BeautifulSoup',
@@ -25,7 +25,7 @@ const skills = [
   {
     title: 'Seaborn',
     competency: 5,
-    category: ['Python','Data Visualization'],
+    category: ['Python', 'Data Visualization'],
   },
   {
     title: 'Power BI',
@@ -35,12 +35,12 @@ const skills = [
   {
     title: 'NumPy',
     competency: 5,
-    category: ['Python','Data Analysis'],
+    category: ['Python', 'Data Analysis'],
   },
   {
     title: 'SciPy',
     competency: 5,
-    category: ['Python','Data Analysis'],
+    category: ['Python', 'Data Analysis'],
   },
   {
     title: 'Jupyter',
@@ -55,12 +55,12 @@ const skills = [
   {
     title: 'Python',
     competency: 5,
-    category: ['Languages','Data Analysis'],
+    category: ['Languages', 'Data Analysis'],
   },
   {
     title: 'R',
     competency: 4,
-    category: ['Languages','Data Analysis'],
+    category: ['Languages', 'Data Analysis'],
   },
   {
     title: 'Tableau',
@@ -70,12 +70,12 @@ const skills = [
   {
     title: 'Pandas',
     competency: 5,
-    category: ['Python','Data Analysis'],
+    category: ['Python', 'Data Analysis'],
   },
   {
     title: 'Matplotlib',
     competency: 4,
-    category: ['Data Visualization','Python'],
+    category: ['Data Visualization', 'Python'],
   },
   {
     title: 'Scikit-Learn',

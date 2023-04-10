@@ -13,7 +13,7 @@ const Index = () => (
         <div className="title">
           <h2><Link to="/">About this site</Link></h2>
           <p>
-            Josephina's portfolio website written with modern Javascript.
+            Josephina&apos;s portfolio website written with modern Javascript.
           </p>
         </div>
       </header>
@@ -24,7 +24,6 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p></p>
     </article>
   </Main>
 );
