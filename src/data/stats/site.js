@@ -4,10 +4,11 @@ import dayjs from 'dayjs';
  * mostly jokes. To see everything returned by the github api, run:
  curl https://api.github.com/repos/mldangelo/personal-site
  */
-const data = [
+
+/*const data = [
   {
-    label: 'Stars this repository has on github',
-    key: 'stargazers_count',
+    label: 'Months Learning Programming',
+    key: 'Months Learning',
     link: 'https://github.com/mldangelo/personal-site/stargazers',
   },
   {
@@ -41,11 +42,29 @@ const data = [
   },
   {
     // TODO update this with a pre-commit hook
-    /* find . | grep ".js" | grep -vE ".min.js|node_modules|.git|.json" |
-    xargs -I file cat file | wc -l */
+     find . | grep ".js" | grep -vE ".min.js|node_modules|.git|.json" |
+    xargs -I file cat file | wc -l 
     label: 'Lines of Javascript powering this website',
     value: '2115',
     link: 'https://github.com/mldangelo/personal-site/graphs/contributors',
+  },
+];*/
+
+const data = [
+  {
+    key: 'Months',
+    label: 'Months learning Programming',
+    value: 5,
+  },
+  {
+    key: 'Courses',
+    label: 'Online Courses or Tutorials Completed',
+    value: 6,
+  },
+  {
+    key: 'github',
+    label: 'GitHub Contributions',
+    value: 43,
   },
 ];
 
