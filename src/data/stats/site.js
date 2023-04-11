@@ -1,11 +1,12 @@
-/*import dayjs from 'dayjs';*/
+/* import dayjs from 'dayjs';
+*/
 
 /* Keys match keys returned by the github api. Fields without keys are
  * mostly jokes. To see everything returned by the github api, run:
  curl https://api.github.com/repos/mldangelo/personal-site
  */
 
-/*  const data = [
+/* const data = [
   {
     label: 'Months Learning Programming',
     key: 'Months Learning',
@@ -48,7 +49,8 @@
     value: '2115',
     link: 'https://github.com/mldangelo/personal-site/graphs/contributors',
   },
-];  */
+];
+*/
 
 const data = [
   {
