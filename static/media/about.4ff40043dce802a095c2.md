@@ -9,7 +9,7 @@ I am pursing M.S. in [Communication Data Science](https://usc-csm.symplicity.com
 
 # Spare time
 
-I am a vlogger and influencer on [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5aca5e7a11be10149032cee0) sharing my studying aboard experience and personal lifestyle. Also, I worked as a social media producer and coordinator at the [ChiHuo](https://en.thechihuo.com/about-us/), which is the most influential digital marketing agency decicated to all things food and activities among the Chinese communities in North America. We produced media content for over 20 WeChat and Xiaohongshu accounts across 16 cities, which attracted over 160 millions active followers. 
+I am a vlogger and influencer on [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5aca5e7a11be10149032cee0) sharing my studying aboard experience and personal lifestyle. Also, I worked as a social media strategist at the [ChiHuo](https://en.thechihuo.com/about-us/), which is the most influential digital marketing agency decicated to all things food and activities among the Chinese communities in North America. We produced media content for over 20 WeChat and Xiaohongshu accounts across 16 cities, which attracted over 160 millions active followers. 
 
 # I like
 
