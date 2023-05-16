@@ -3,8 +3,9 @@ const data = [
   {
     title: 'Analysis of the Newest Social Media Dataset Focused on “Clean” and Less Toxic Social Media: the Pixstory',
     subtitle: 'Group Project: Data Science at Scale',
-    image: '/images/projects/pixstory.jpg',
-    date: '2023-4-30 (in progress)',
+    link: 'https://jorgeasolis.github.io/pixstory_viz/index.html',
+    image: '/images/projects/geoparser.png',
+    date: '2023-4-30',
     desc:
       'A three-month project built for a DSCI course. '
       + 'Examined the target market and user behaviors through '

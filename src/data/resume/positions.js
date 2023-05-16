@@ -1,13 +1,24 @@
 const positions = [
   {
-    company: 'Chihuo Marketing Agency',
-    position: 'Social Media Specialist',
-    link: 'https://en.thechihuo.com/about-us/',
-    daterange: 'January 2023 - Present',
+    company: 'UniUni Inc.',
+    position: 'Strategic Planning Analyst',
+    link: 'https://www.uniuni.com/',
+    daterange: 'MAy 2023 - Present',
     points: [
-      'Created media content for over 20 WeChat and XiaoHongShu accounts across 16 cities in North Amercia, which garnered over 160 millions active followers. ',
+      'Conducted research, gathered data, and performed in-depth analysis to assess market trends, competitor landscape and industry dynamics',
+      'Led a cross-functional team and collaborate with senior management to develop business partnerships with Firefly Media',
+    ],
+  },
+  {
+    company: 'Chihuo Marketing Agency',
+    position: 'Social Media Strategist',
+    link: 'https://en.thechihuo.com/about-us/',
+    daterange: 'March 2023 - Present',
+    points: [
+      'Created media content for over 20 WeChat and XiaoHongShu accounts across 16 cities in North Amercia, which garnered over 160 millions active followers',
       'Analyzed, reported and improved social media performance by monitoring social media metrics and analytics',
-      'Collaborated with other teams within the organization to ensure social media strategies align with overall markketing and business objectives.',
+      'Developed and execute paid search & social media campaigns to increase brand awareness, reach and engagement. Define target audience, set campaign objectives, create ad copy and visuals, and monitor campaign performance. Optimize campaigns based on data insights to maximize results',
+      'Collaborated with other teams within the organization to ensure social media strategies align with overall marketing and business objectives',
     ],
   },
   {

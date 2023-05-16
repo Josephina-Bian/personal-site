@@ -56,7 +56,7 @@ const data = [
   {
     key: 'Months',
     label: 'Months learning Programming',
-    value: 5,
+    value: 8,
   },
   {
     key: 'Courses',
@@ -66,7 +66,7 @@ const data = [
   {
     key: 'github',
     label: 'GitHub Contributions',
-    value: 43,
+    value: 52,
   },
 ];
 
